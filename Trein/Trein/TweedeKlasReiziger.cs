@@ -6,7 +6,7 @@ namespace Trein
 {
     class TweedeKlasReiziger : Reiziger
     {
-        public TweedeKlasReiziger(string bestemming) : base(bestemming)
+        public TweedeKlasReiziger(string naam, string bestemming) : base(naam, bestemming)
         {
             this.klasse = "2de klas";
             this.ticket = true;

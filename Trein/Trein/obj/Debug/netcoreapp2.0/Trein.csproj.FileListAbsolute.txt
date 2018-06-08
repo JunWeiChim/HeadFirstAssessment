@@ -9,3 +9,14 @@ C:\Users\Jun-Wei Chim\Dropbox\Programmeerlessen\HeadFirstAssessment\Trein\Trein\
 C:\Users\Jun-Wei Chim\Dropbox\Programmeerlessen\HeadFirstAssessment\Trein\Trein\obj\Debug\netcoreapp2.0\Trein.AssemblyInfo.cs
 C:\Users\Jun-Wei Chim\Dropbox\Programmeerlessen\HeadFirstAssessment\Trein\Trein\obj\Debug\netcoreapp2.0\Trein.dll
 C:\Users\Jun-Wei Chim\Dropbox\Programmeerlessen\HeadFirstAssessment\Trein\Trein\obj\Debug\netcoreapp2.0\Trein.pdb
+C:\Users\Jun-Wei Chim\Documents\School\Programmeerlessen\HeadFirstAssessment\Trein\Trein\bin\Debug\netcoreapp2.0\Trein.deps.json
+C:\Users\Jun-Wei Chim\Documents\School\Programmeerlessen\HeadFirstAssessment\Trein\Trein\bin\Debug\netcoreapp2.0\Trein.runtimeconfig.json
+C:\Users\Jun-Wei Chim\Documents\School\Programmeerlessen\HeadFirstAssessment\Trein\Trein\bin\Debug\netcoreapp2.0\Trein.runtimeconfig.dev.json
+C:\Users\Jun-Wei Chim\Documents\School\Programmeerlessen\HeadFirstAssessment\Trein\Trein\bin\Debug\netcoreapp2.0\Trein.dll
+C:\Users\Jun-Wei Chim\Documents\School\Programmeerlessen\HeadFirstAssessment\Trein\Trein\bin\Debug\netcoreapp2.0\Trein.pdb
+C:\Users\Jun-Wei Chim\Documents\School\Programmeerlessen\HeadFirstAssessment\Trein\Trein\obj\Debug\netcoreapp2.0\Trein.csprojResolveAssemblyReference.cache
+C:\Users\Jun-Wei Chim\Documents\School\Programmeerlessen\HeadFirstAssessment\Trein\Trein\obj\Debug\netcoreapp2.0\Trein.csproj.CoreCompileInputs.cache
+C:\Users\Jun-Wei Chim\Documents\School\Programmeerlessen\HeadFirstAssessment\Trein\Trein\obj\Debug\netcoreapp2.0\Trein.AssemblyInfoInputs.cache
+C:\Users\Jun-Wei Chim\Documents\School\Programmeerlessen\HeadFirstAssessment\Trein\Trein\obj\Debug\netcoreapp2.0\Trein.AssemblyInfo.cs
+C:\Users\Jun-Wei Chim\Documents\School\Programmeerlessen\HeadFirstAssessment\Trein\Trein\obj\Debug\netcoreapp2.0\Trein.dll
+C:\Users\Jun-Wei Chim\Documents\School\Programmeerlessen\HeadFirstAssessment\Trein\Trein\obj\Debug\netcoreapp2.0\Trein.pdb

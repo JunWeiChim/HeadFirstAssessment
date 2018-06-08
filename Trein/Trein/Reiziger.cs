@@ -10,9 +10,11 @@ namespace Trein
         protected bool ticket;
         private string bestemming;
         protected string klasse;
-        public Reiziger(string bestemming)
+        private bool zitplaats;
+        public Reiziger(string naam, string bestemming)
         {
             this.bestemming = bestemming;
+            this.naam = naam;
         }
         public bool TicketControleren()
         {
@@ -29,6 +31,18 @@ namespace Trein
         public string GetKlasse()
         {
             return this.klasse;
+        }
+        public bool GetZitplaats()
+        {
+            return this.zitplaats;
+        }
+        public bool SetZitplaats(bool zitplaats)
+        {
+            return this.zitplaats = zitplaats;
+        }
+        public override string ToString()
+        {
+            return this.naam;
         }
     }
 }

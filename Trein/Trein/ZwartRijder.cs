@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Trein
 {
-    class ZwartReider : Reiziger
+    class ZwartRijder : Reiziger
     {
-        public ZwartReider(string bestemming) : base(bestemming)
+        public ZwartRijder(string naam, string bestemming) : base(naam, bestemming)
         {
             this.ticket = false;
         }

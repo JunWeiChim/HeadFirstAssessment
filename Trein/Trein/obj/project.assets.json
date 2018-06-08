@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jun-Wei Chim\\Dropbox\\Programmeerlessen\\HeadFirstAssessment\\Trein\\Trein\\Trein.csproj",
+      "projectUniqueName": "C:\\Users\\Jun-Wei Chim\\Documents\\School\\Programmeerlessen\\HeadFirstAssessment\\Trein\\Trein\\Trein.csproj",
       "projectName": "Trein",
-      "projectPath": "C:\\Users\\Jun-Wei Chim\\Dropbox\\Programmeerlessen\\HeadFirstAssessment\\Trein\\Trein\\Trein.csproj",
+      "projectPath": "C:\\Users\\Jun-Wei Chim\\Documents\\School\\Programmeerlessen\\HeadFirstAssessment\\Trein\\Trein\\Trein.csproj",
       "packagesPath": "C:\\Users\\Jun-Wei Chim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jun-Wei Chim\\Dropbox\\Programmeerlessen\\HeadFirstAssessment\\Trein\\Trein\\obj\\",
+      "outputPath": "C:\\Users\\Jun-Wei Chim\\Documents\\School\\Programmeerlessen\\HeadFirstAssessment\\Trein\\Trein\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

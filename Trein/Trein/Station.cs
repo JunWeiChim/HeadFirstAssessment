@@ -15,9 +15,12 @@ namespace Trein
         public void TreinArriveert(Trein trein)
         {
             this.trein = trein;
+            this.trein.SetLocatie(this.locatie);
+            Console.WriteLine("\nDe trein is gearriveerd in " + this.locatie);
         }
         public void TreinVertrekt()
         {
+            Console.WriteLine("De trein is vertrokken uit " + this.locatie);
             this.trein = null;
         }
         public Trein CheckTrein()
